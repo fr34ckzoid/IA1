@@ -1,7 +1,6 @@
-# Azure Trainer AI
+# IA1
 
-Proyecto para crear un entrenador de certificaciones Microsoft Azure, iniciando con AZ-900.
+Proyecto IA1.
 
-## Estado
-- Bootstrap iniciado
-- Desarrollo en progreso
+## Objetivo
+Construir un AI Security Copilot.
